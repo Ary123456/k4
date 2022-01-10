@@ -1,0 +1,11 @@
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgb(0, 17, 253);
+}
+#msg{
+  width: 500px;
+  height: 40px;  
+}
+#bdy{
+    background-color: black;
+}
